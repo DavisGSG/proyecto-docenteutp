@@ -1,0 +1,13 @@
+# Backend
+docenteutp-backend/target/
+docenteutp-backend/src/main/resources/application.properties
+
+# Frontend
+docenteutp-frontend/node_modules/
+docenteutp-frontend/dist/
+docenteutp-frontend/.angular/
+
+# Editor y sistema
+.idea/
+.vscode/
+*.log
